@@ -35,5 +35,5 @@ wrapt==1.16.0
 yarg==0.1.9
 yarl==1.17.1
 zipp==3.21.0
-pysqlite-binary==0.5.1.3380300
-beautifulsoup4==4.12.3
+pysqlite3-binary
+beautifulsoup4
